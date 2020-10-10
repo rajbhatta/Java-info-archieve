@@ -1,4 +1,4 @@
-## Multi-threading Java Interview questions ##
+## Multi-threading in Java ##
 
 ### Possible ways of creating mult-threading application in Java ###
 1. A thread can be created by implementing runnable interface and overriding it's run method
